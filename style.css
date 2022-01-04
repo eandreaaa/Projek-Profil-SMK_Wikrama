@@ -1,0 +1,85 @@
+body{
+    background-color: beige;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+ul {
+    list-style-type: none;
+    margin: 16px 32px;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+    text-decoration: none;
+}
+
+.utama{
+    font-size: 50px;
+    text-align: left
+}
+
+.logo{
+    float: left;
+    width:100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.content1 {
+    justify-content: space-around;
+    align-items: center;
+    min-height: 300px;
+    padding: 0 12%;
+  }
+
+.card {
+    background-color:rgb(254, 255, 184);;
+    width: 700px;
+    min-height: 100px;
+    padding: 50px;
+    margin: 45px 0;
+    text-align: justify;
+}
+
+.content2 /*{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 300px;
+    padding: 0 12%;
+}*/
+
+.card2 {
+    background-color: #b7d3f0;
+    width: 700px;
+    min-height: 100px;
+    padding: 50px;
+    margin: 45px 0;
+    text-align: center;
+}
+
+.content3{
+    background-color:rgb(254, 255, 184);;
+    width: 700px;
+    min-height: 100px;
+    padding: 50px;
+    margin: 45px 0;
+    text-align: justify;
+}
+
+.kantin { 
+    width:100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.content4{
+    background-color: #b7d3f0;
+    width: 700px;
+    min-height: 100px;
+    padding: 50px;
+    margin: 45px 0;
+    text-align: center;
+}
+  
